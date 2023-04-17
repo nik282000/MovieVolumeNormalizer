@@ -6,4 +6,4 @@ the remote again.
 
 The lower, normalized, track has a smaller range in volume between the quietest and loudest sections compared to the original.
 
-![example]([http://url/to/img.png](https://raw.githubusercontent.com/nik282000/MovieVolumeNormalizer/main/example.png))
+![example](example.png)
