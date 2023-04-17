@@ -8,6 +8,8 @@ Surround sound is mixed down to stereo.
 
 Requires ffmpeg.
 
+useage: normalizer.sh video.file
+
 The lower, normalized, track has a smaller range in volume between the quietest and loudest sections compared to the original.
 
 ![example](example.png)
