@@ -1,4 +1,4 @@
-normalizer.sh will add a new audio track to a movie file that contains the original sound track butwith normalized volume.
+normalizer.sh will add a new audio track to a video file that contains the original sound track but with normalized volume.
 
 This takes away some of the audio quality but makes casual viewing much more enjoyable.
 
